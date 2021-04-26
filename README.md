@@ -1,2 +1,2 @@
 # Assignment
-A simpple Registration page with db connectivity
+A simple Registration page with db connectivity.
