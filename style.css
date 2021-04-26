@@ -1,0 +1,28 @@
+body{
+    background-image:url(img.jpg);
+}
+.container{
+    width:350px;
+    height:300px;
+    box-sizing: border-box;
+    border:2px solid Gray;
+    border-radius:5px;
+    background-color:Gray;
+    margin-top:50px;
+    overflow:hidden;
+
+}
+.grad{
+  height: 30px;
+  width: none;
+  background-color: red;
+  background-image: radial-gradient(blue, skyblue);
+  font-size:25px;
+}
+header{
+    text-align:center;
+    color:#c44;
+}
+form{
+    padding:10px;
+}
